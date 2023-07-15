@@ -1,0 +1,27 @@
+{
+  "editor.accessibilitySupport": "off",
+  "editor.fontSize": 16,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "explorer.confirmDelete": false,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorTheme": "Serendipity Midnight",
+  "files.autoSave": "onWindowChange",
+  "explorer.confirmDragAndDrop": false,
+  "git.openRepositoryInParentFolders": "never",
+  "git.ignoreRebaseWarning": true,
+  "workbench.settings.enableNaturalLanguageSearch": false,
+  "workbench.settings.useSplitJSON": true,
+  "editor.fontFamily": "'Operator Mono', 'MesloLGS NF'",
+  "editor.fontLigatures": true,
+  "editor.inlineSuggest.enabled": true,
+  "window.zoomLevel": 1
+}
